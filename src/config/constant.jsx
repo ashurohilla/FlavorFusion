@@ -8,10 +8,10 @@ let DOMAIN = null;
 // IMAGE_SERVER  ="http://127.0.0.1:8002";
 // DOMAIN = "http://localhost:5173"
 
-BACKEND_SERVER = "http://recipiebackend-production.up.railway.app/api/";
+BACKEND_SERVER = "https://recipiebackend-production.up.railway.app/api/";
 
-IMAGE_SERVER  ="http://recipiebackend-production.up.railway.app"
-DOMAIN = "http://recipiebackend-production.up.railway.app"
+IMAGE_SERVER  ="https://recipiebackend-production.up.railway.app"
+DOMAIN = "https://recipiebackend-production.up.railway.app"
 
 
 
