@@ -6,6 +6,6 @@ export default defineConfig({
   base:  '/',
 
   plugins: [react()],
-  appType: 'spa',
+  appType: 'SPA',
 
 })
